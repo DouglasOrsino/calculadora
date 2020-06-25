@@ -1,0 +1,3 @@
+
+S¢ roda em terminal, vocˆ digita o comando javac Calculate.java para compilar e para executar java Calculate soma 2 2
+Ele retornar  4 assim como as demais opera‡äes.
