@@ -1,3 +1,4 @@
 
-S¢ roda em terminal, vocˆ digita o comando javac Calculate.java para compilar e para executar java Calculate soma 2 2
-Ele retornar  4 assim como as demais opera‡äes.
+So roda em terminal, voce digita o comando javac Calculate.java para compilar
+Em seguida java Calculate somar 2 2 a resposta sera 4
+Segue as demais operacoes assim.
